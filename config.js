@@ -3,25 +3,25 @@
 
 module.exports = {
   // API Configuration
-  API_BASE_URL: 'https://api.agri-advisory.com',
+  API_BASE_URL: 
   API_TIMEOUT: 30000,
   API_RETRY_ATTEMPTS: 3,
 
   // Weather API
-  WEATHER_API_KEY: '0e67617443c9457536e2fb6a69d1d331',
-  WEATHER_API_URL: 'https://api.openweathermap.org/data/2.5',
+  WEATHER_API_KEY: 
+  WEATHER_API_URL: 
 
   // Market Data API
-  MARKET_API_KEY: '579b464db66ec23bdd000001cdd3946e44ce4aad7209ff7b23ac571b',
-  MARKET_API_URL: 'https://data.gov.in.com',
+  MARKET_API_KEY: 
+  MARKET_API_URL: 
 
   // AI Service API
-  AI_SERVICE_API_KEY: 'your_ai_service_api_key_here',
-  AI_SERVICE_API_URL: 'https://api.ai-service.com',
+  AI_SERVICE_API_KEY:
+  AI_SERVICE_API_URL: 
 
   // Push Notifications
-  PUSH_NOTIFICATION_SENDER_ID: '529341709550',
-  PUSH_NOTIFICATION_SERVER_KEY: 'your_server_key_here',
+  PUSH_NOTIFICATION_SENDER_ID: 
+  PUSH_NOTIFICATION_SERVER_KEY: 
 
   // Analytics
   ANALYTICS_ENABLED: true,
